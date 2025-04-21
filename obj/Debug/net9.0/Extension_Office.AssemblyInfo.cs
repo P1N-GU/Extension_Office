@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Extension_Office")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9550a51a9902030dffc3d7cab684d2d77747b5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Extension_Office")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Extension_Office")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
